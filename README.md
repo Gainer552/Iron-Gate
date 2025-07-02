@@ -1,8 +1,6 @@
 # Iron-Gate
 𝘐𝘳𝘰𝘯𝘎𝘢𝘵𝘦 𝘪𝘴 𝘢 𝘻𝘦𝘳𝘰-𝘵𝘳𝘶𝘴𝘵 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘬𝘪𝘭𝘭 𝘴𝘸𝘪𝘵𝘤𝘩 𝘧𝘰𝘳 𝘓𝘪𝘯𝘶𝘹. 𝘐𝘵 𝘪𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘴𝘭𝘢𝘮𝘴 𝘵𝘩𝘦 𝘣𝘳𝘢𝘬𝘦𝘴 𝘵𝘩𝘳𝘰𝘸𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘺𝘴𝘵𝘦𝘮 𝘪𝘯𝘵𝘰 𝘢 𝘩𝘢𝘳𝘥𝘦𝘯𝘦𝘥 𝘢𝘪𝘳-𝘨𝘢𝘱𝘱𝘦𝘥 𝘴𝘵𝘢𝘵𝘦 𝘰𝘳 𝘩𝘪𝘵𝘴 𝘵𝘩𝘦 𝘨𝘢𝘴 𝘵𝘰 𝘳𝘦𝘴𝘵𝘰𝘳𝘦 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘢𝘵 𝘸𝘪𝘭𝘭.
 
-SGVsbG8sIHlvdSBjYW4gc3RheS4gSnVzdCBwbGF5IG5pY2UuIDop
-
 **Description**
 
 IronGate is a rapid-response network lockdown tool built for SOC operators, field analysts, and cybersecurity professionals. It is engineered for digital crisis scenarios where immediate containment is required. IronGate disables all network interfaces, kills DNS and routing, flushes the firewall, and even removes NIC drivers to completely sever system connectivity — all within seconds. It operates quietly, logs everything, and provides verifiable integrity via SHA256 hashing.
