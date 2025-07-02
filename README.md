@@ -10,9 +10,13 @@ Use it to isolate compromised systems, perform live incident containment, or est
 **Table of Contents**
 
 • Installation
+
 • Usage
+
 • Features
+
 • Tests
+
 • Disclaimer
 
 **Installation**
@@ -36,9 +40,13 @@ To use this program, follow these steps:
 Air-Gap Lockdown:
 
 • Disables WiFi, Ethernet, and RF hardware.
+
 • Removes DNS, flushes IP routes.
+
 • Drops all inbound/outbound/forward firewall rules.
+
 • Unloads kernel modules for NIC drivers.
+
 • Disables NetworkManager for total blackout.
 
 **Logging & Evidence:**
@@ -50,6 +58,7 @@ Air-Gap Lockdown:
 **Integrity Check via Hash:**
 
 • On launch you may verify the hash manually: sha256sum iron_gate.sh
+
 • Compare against: c54514043c7ba314ae876d290ab1d0c49aabea5fb2fb7a34812ea9d5f5c6d801
 
 **Tests**
@@ -57,12 +66,18 @@ Air-Gap Lockdown:
 QA Rating: 
 
 • Passed on Arch Linux.
-• Interfaces dropped successfully
-• DNS flushed
-• Firewall rules verified
-• Drivers removed and restored
-• Logging intact and cleanly formatted
-• SHA256 integrity verified
+
+• Interfaces dropped successfully.
+
+• DNS flushed.
+
+• Firewall rules verified.
+
+• Drivers removed and restored.
+
+• Logging intact and cleanly formatted.
+
+• SHA256 integrity verified.
 
 **Disclaimer**
 
